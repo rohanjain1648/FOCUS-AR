@@ -1,0 +1,8 @@
+{
+  "name": "FocusAR: ADHD Memory Offload",
+  "description": "A futuristic AR heads-up display designed to help ADHD users offload distracting thoughts instantly. Features real-time voice capture, facial expression stress detection, and a 'Presence Guide' to reduce interruption habits.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
